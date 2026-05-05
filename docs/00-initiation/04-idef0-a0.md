@@ -18,4 +18,4 @@
 
 ## 2. Визуальное представление
 
-![IDEF0 A-0: Бизнес-контекст](course-project/docs/images/idef0-a0.png)
+![IDEF0 A-0: Бизнес-контекст](docs/images/idef0-a0.png)
