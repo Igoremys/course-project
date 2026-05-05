@@ -17,4 +17,4 @@
 ---
 
 ## 2. Визуальное представление
-
+![PCMEF Package Diagram](https://github.com/Igoremys/course-project/blob/main/docs/images/pcme-package-diagram.png)
