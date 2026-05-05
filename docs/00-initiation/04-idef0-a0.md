@@ -18,4 +18,4 @@
 
 ## 2. Визуальное представление
 
-![IDEF](docs/images/idef0-a0.png)
+![IDEF](https://github.com/Igoremys/course-project/blob/main/docs/images/idef0-a0.png))
