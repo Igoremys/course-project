@@ -21,4 +21,4 @@
 ---
 
 ## 2. Визуальное представление
-
+![Domain Model](https://github.com/Igoremys/course-project/blob/main/docs/images/domain-model.png)
