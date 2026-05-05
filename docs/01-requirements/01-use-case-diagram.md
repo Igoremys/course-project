@@ -17,4 +17,4 @@
 ---
 
 ## 2. Визуальное представление
-![Use Case Diagram](images/use-case-diagram.png)
+![Use Case Diagram](https://github.com/Igoremys/course-project/blob/main/docs/images/use-case-diagram.png)
